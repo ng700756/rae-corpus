@@ -1,0 +1,2 @@
+CREATE TABLE def (word VARCHAR(45), description VARCHAR(1024));
+mysql -u root -p
